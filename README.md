@@ -8,15 +8,15 @@ The project is structured as follows:
 
 filereaderwriter/  
 |-- main.go  
-|-- filehandler/  
-| |-- filehandler.go  
+|-- filereader/  
+| |-- filereader.go  
 |-- filewriter/  
 | |-- filewriter.go  
 |-- README.md  
 
 
 - `main.go`: The entry point of the program.    
-- `filehandler/filehandler.go`: Package for reading file content.  
+- `filereader/filereader.go`: Package for reading file content.  
 - `filewriter/filewriter.go`: Package for writing file content with additional information.  
 - `README.md`: This documentation file.  
 
@@ -32,8 +32,8 @@ filereaderwriter/
 * This will read the content of the example file (example.txt), display it, and write it back with additional user and date information.  
 
 ### File Structure  
-filehandler  
-filehandler.go  
+filereader  
+filereader.go  
 * This package contains a ReadFile function that reads the contents of a specified file and returns them as a string.  
 
 filewriter  
