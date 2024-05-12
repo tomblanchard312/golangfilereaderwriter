@@ -44,4 +44,4 @@ filewriter.go
 
 
 ## License  
-*This project is licensed under the **[MIT License](https://mit-license.org/)**.
+*This project is licensed under the **[MIT License](https://github.com/tomblanchard312/GoLangFileReaderWriterSample/edit/main/LICENSE)**.
