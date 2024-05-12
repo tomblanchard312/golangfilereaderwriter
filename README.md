@@ -23,8 +23,10 @@ filereaderwriter/
 ## Usage  
 
 1. Clone the repository:
-	https://github.com/tomblanchard312/file_readerwritersamplego.git  
+   ```
+	git clone https://github.com/tomblanchard312/file_readerwritersamplego.git  
 	cd filereaderwriter
+   ```
 
 ### Run the main program:  
 
