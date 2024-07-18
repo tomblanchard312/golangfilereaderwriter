@@ -1,11 +1,13 @@
 # FileReaderWriter  
 
 FileReaderWriter is a simple Go project that demonstrates reading and writing files.  
+This is a very simple example that performs two functions. 
+If you want a more thorough example check out the [GOCleanArchitecture Example](https://github.com/tomblanchard312/GOCleanArchitecture.git)
 
 ## Project Structure  
 
 The project is structured as follows:  
-
+```
 filereaderwriter/  
 |-- main.go  
 |-- filereader/  
@@ -13,7 +15,7 @@ filereaderwriter/
 |-- filewriter/  
 | |-- filewriter.go  
 |-- README.md  
-
+```
 
 - `main.go`: The entry point of the program.    
 - `filereader/filereader.go`: Package for reading file content.  
