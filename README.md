@@ -1,7 +1,6 @@
 # FileReaderWriter
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/tomblanchard312/file_readerwritersamplego/ci.yml?branch=main)](https://github.com/tomblanchard312/file_readerwritersamplego/actions)
-[![License](https://img.shields.io/github.com/tomblanchard312/file_readerwritersamplego)](https://github.com/tomblanchard312/file_readerwritersamplego/blob/main/LICENSE)
+[![License](https://img.shields.io/github.com/tomblanchard312/golangfilereaderwriter)](https://github.com/tomblanchard312/golangfilereaderwriter/blob/main/LICENSE)
 
 FileReaderWriter is a simple Go project that demonstrates reading from and writing to files. This project includes:
 
